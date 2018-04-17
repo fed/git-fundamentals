@@ -1,6 +1,6 @@
 # Notes on version control with Git
 
-<img src="branching.png" alt="" width="300" />
+<img src="git.png" alt="Git Logo" width="400" />
 
 1. [Basic Commands Overview](./commands.md)
 2. [Interview Questions](./questions.md)
